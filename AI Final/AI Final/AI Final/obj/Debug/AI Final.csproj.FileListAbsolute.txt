@@ -1,0 +1,11 @@
+C:\Users\art86\Desktop\AI Final\AI Final\AI Final\bin\Debug\AI Final.exe.config
+C:\Users\art86\Desktop\AI Final\AI Final\AI Final\bin\Debug\AI Final.exe
+C:\Users\art86\Desktop\AI Final\AI Final\AI Final\bin\Debug\AI Final.pdb
+C:\Users\art86\Desktop\AI Final\AI Final\AI Final\bin\Debug\ThaiSplitLib.dll
+C:\Users\art86\Desktop\AI Final\AI Final\AI Final\obj\Debug\AI Final.csprojResolveAssemblyReference.cache
+C:\Users\art86\Desktop\AI Final\AI Final\AI Final\obj\Debug\AI_Final.Properties.Resources.resources
+C:\Users\art86\Desktop\AI Final\AI Final\AI Final\obj\Debug\AI Final.csproj.GenerateResource.Cache
+C:\Users\art86\Desktop\AI Final\AI Final\AI Final\obj\Debug\AI Final.csproj.CoreCompileInputs.cache
+C:\Users\art86\Desktop\AI Final\AI Final\AI Final\obj\Debug\AI Final.exe
+C:\Users\art86\Desktop\AI Final\AI Final\AI Final\obj\Debug\AI Final.pdb
+C:\Users\art86\Desktop\AI Final\AI Final\AI Final\obj\Debug\AI_Final.Ai.resources
