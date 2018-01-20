@@ -1,0 +1,9 @@
+C:\Users\art86\Desktop\AI Final\ThaiSplitApplication\ThaiSplitApplication\dictionary.txt
+C:\Users\art86\Desktop\AI Final\ThaiSplitApplication\ThaiSplitApplication\ThaiSplitLib.dll
+C:\Users\art86\Desktop\AI Final\ThaiSplitApplication\ThaiSplitApplication\ThaiSplitLib.pdb
+C:\Users\art86\Desktop\AI Final\AI Final\ThaiSplitLib\obj\Debug\ThaiSplitLib.Properties.Resources.resources
+C:\Users\art86\Desktop\AI Final\AI Final\ThaiSplitLib\obj\Debug\ThaiSplitLib.csproj.GenerateResource.Cache
+C:\Users\art86\Desktop\AI Final\AI Final\ThaiSplitLib\obj\Debug\ThaiSplitLib.csproj.CoreCompileInputs.cache
+C:\Users\art86\Desktop\AI Final\AI Final\ThaiSplitLib\obj\Debug\ThaiSplitLib.dll
+C:\Users\art86\Desktop\AI Final\AI Final\ThaiSplitLib\obj\Debug\ThaiSplitLib.pdb
+C:\Users\art86\Desktop\AI Final\AI Final\ThaiSplitLib\obj\Debug\ThaiSplitLib.csprojResolveAssemblyReference.cache

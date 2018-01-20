@@ -44,9 +44,6 @@
     <Reference Include="System.Net.Http" />
     <Reference Include="System.Windows.Forms" />
     <Reference Include="System.Xml" />
-    <Reference Include="ThaiSplitLib">
-      <HintPath>..\ThaiSplitLib\ThaiSplitLib.dll</HintPath>
-    </Reference>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Form1.cs">
@@ -68,6 +65,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
@@ -81,6 +79,30 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="graphic-design.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="network.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="idea.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="like.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="error.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="plus.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ThaiSplitLib\ThaiSplitLib.csproj">
+      <Project>{3f26d195-d81b-4269-ac0d-0b85b903711f}</Project>
+      <Name>ThaiSplitLib</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
